@@ -1,4 +1,4 @@
-name: CI-Practise-Pipeline
+﻿name: CI-Practise-Pipeline
 
 on: 
   push:
